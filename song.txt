@@ -1,2 +1,4 @@
 compare - sravnivat
 according - sledovatelno
+acces - dostyp
+appear -poyavlatsa

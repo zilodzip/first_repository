@@ -2,3 +2,6 @@ compare - sravnivat
 according - sledovatelno
 acces - dostyp
 appear -poyavlatsa
+
+exactly - tochno
+fairly-dostatochno

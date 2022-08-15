@@ -5,5 +5,3 @@ appear -poyavlatsa
 
 exactly - tochno
 fairly-dostatochno
-
-some content
